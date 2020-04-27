@@ -1,0 +1,1 @@
+// https://www.youtube.com/watch?v=Ti2Q4sQkNdU - изучение EcmaScript6 синтаксиса, новые стандарты ES6, ES7, ES8
